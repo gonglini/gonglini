@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyomin in south korea
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning ROS1, ROS2 and SpotMicro
+- 🌱 I’m currently learning ROS1, ROS2 and Jetson nano
 - 📫 How to reach me => stuff789@naver.com or gonglini2021(instagram)
 
 <!---
